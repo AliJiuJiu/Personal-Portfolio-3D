@@ -1,0 +1,6 @@
+Source of this project: https://www.youtube.com/watch?v=0fYi8SGA20k&t=308s
+
+
+A number of packages need to be installed (using the below command) but old version of React is needed hence legacy flag will be required
+
+npm install --legacy-peer-deps @react-three/fiber @react-three/drei maath react-tilt react-vertical-timeline-component @emailjs/browser framer-motion react-router-dom
