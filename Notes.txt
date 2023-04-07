@@ -4,3 +4,6 @@ Source of this project: https://www.youtube.com/watch?v=0fYi8SGA20k&t=308s
 A number of packages need to be installed (using the below command) but old version of React is needed hence legacy flag will be required
 
 npm install --legacy-peer-deps @react-three/fiber @react-three/drei maath react-tilt react-vertical-timeline-component @emailjs/browser framer-motion react-router-dom
+
+Github gist file which provides some pre-defined styles
+https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqa1plbVZkNkRIUnBqQzZMV09JN3c4UFMxeUFFZ3xBQ3Jtc0tsa2tibXFaQ1IwUmkyMjBCUERULTdNSUIyOGpndDk4ZUl3cnF1UDcwb2FSRlFGM2VWdDNtaC1kQ3F0c3RvbGZTZEQ5cXRiWS1Rd3pOS2Q1Y2RaYjZVVWNpaUYxUWJIeUI3MDZJSzJqY1JHdVRvRl9iaw&q=https%3A%2F%2Fgist.github.com%2Fadrianhajdin%2Fb1d33c262941a7e21aad833a1cfc84b1&v=0fYi8SGA20k
